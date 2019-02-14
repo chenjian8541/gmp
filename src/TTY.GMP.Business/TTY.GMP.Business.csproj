@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TTY.Event.GMP\TTY.Event.GMP.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Entity\TTY.GMP.Entity.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IBusiness\TTY.GMP.IBusiness.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IDataAccess\TTY.GMP.IDataAccess.csproj" />
+    <ProjectReference Include="..\TTY.GMP.LOG\TTY.GMP.LOG.csproj" />
+    <ProjectReference Include="..\TTY.GMP.ServiceBus\TTY.GMP.ServiceBus.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Utility\TTY.GMP.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

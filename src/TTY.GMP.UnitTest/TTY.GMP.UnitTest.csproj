@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.2" />
+    <PackageReference Include="Moq" Version="4.8.2" />
+    <PackageReference Include="xunit" Version="2.3.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
+    <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TTY.Event.GMP\TTY.Event.GMP.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Authority\TTY.GMP.Authority.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Business\TTY.GMP.Business.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Cache.Redis\TTY.GMP.Cache.Redis.csproj" />
+    <ProjectReference Include="..\TTY.GMP.DaemonService\TTY.GMP.DaemonService.csproj" />
+    <ProjectReference Include="..\TTY.GMP.DataAccess\TTY.GMP.DataAccess.csproj" />
+    <ProjectReference Include="..\TTY.GMP.DataCore\TTY.GMP.DataCore.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Entity\TTY.GMP.Entity.csproj" />
+    <ProjectReference Include="..\TTY.GMP.EventConsumer\TTY.GMP.EventConsumer.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IBusiness\TTY.GMP.IBusiness.csproj" />
+    <ProjectReference Include="..\TTY.GMP.ICache\TTY.GMP.ICache.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IDataAccess\TTY.GMP.IDataAccess.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IOC\TTY.GMP.IOC.csproj" />
+    <ProjectReference Include="..\TTY.GMP.LOG\TTY.GMP.LOG.csproj" />
+    <ProjectReference Include="..\TTY.GMP.ServiceBus\TTY.GMP.ServiceBus.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Utility\TTY.GMP.Utility.csproj" />
+    <ProjectReference Include="..\TTY.GMP.WebApi\TTY.GMP.WebApi.csproj" />
+  </ItemGroup>
+
+</Project>

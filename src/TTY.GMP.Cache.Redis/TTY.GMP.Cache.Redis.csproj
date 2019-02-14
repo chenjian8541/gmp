@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="StackExchange.Redis.StrongName" Version="1.2.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TTY.GMP.Entity\TTY.GMP.Entity.csproj" />
+    <ProjectReference Include="..\TTY.GMP.ICache\TTY.GMP.ICache.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IOC\TTY.GMP.IOC.csproj" />
+  </ItemGroup>
+
+</Project>

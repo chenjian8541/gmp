@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="RabbitMqConfig.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit.RabbitMQ" Version="5.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TTY.Event.GMP\TTY.Event.GMP.csproj" />
+    <ProjectReference Include="..\TTY.GMP.EventConsumer\TTY.GMP.EventConsumer.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IEventProvider\TTY.GMP.IEventProvider.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IOC\TTY.GMP.IOC.csproj" />
+  </ItemGroup>
+
+</Project>

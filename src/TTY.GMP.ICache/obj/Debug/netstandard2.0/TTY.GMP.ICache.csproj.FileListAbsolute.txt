@@ -1,0 +1,17 @@
+E:\tty_code\GMP\Back\TTY.GMP.ICache\bin\Debug\netstandard2.0\TTY.GMP.ICache.deps.json
+E:\tty_code\GMP\Back\TTY.GMP.ICache\bin\Debug\netstandard2.0\TTY.GMP.ICache.dll
+E:\tty_code\GMP\Back\TTY.GMP.ICache\bin\Debug\netstandard2.0\TTY.GMP.ICache.pdb
+E:\tty_code\GMP\Back\TTY.GMP.ICache\obj\Debug\netstandard2.0\TTY.GMP.ICache.csproj.CoreCompileInputs.cache
+E:\tty_code\GMP\Back\TTY.GMP.ICache\obj\Debug\netstandard2.0\TTY.GMP.ICache.AssemblyInfoInputs.cache
+E:\tty_code\GMP\Back\TTY.GMP.ICache\obj\Debug\netstandard2.0\TTY.GMP.ICache.AssemblyInfo.cs
+E:\tty_code\GMP\Back\TTY.GMP.ICache\obj\Debug\netstandard2.0\TTY.GMP.ICache.dll
+E:\tty_code\GMP\Back\TTY.GMP.ICache\obj\Debug\netstandard2.0\TTY.GMP.ICache.pdb
+D:\GMP\Back\TTY.GMP.ICache\bin\Debug\netstandard2.0\TTY.GMP.ICache.deps.json
+D:\GMP\Back\TTY.GMP.ICache\bin\Debug\netstandard2.0\TTY.GMP.ICache.dll
+D:\GMP\Back\TTY.GMP.ICache\bin\Debug\netstandard2.0\TTY.GMP.ICache.pdb
+D:\GMP\Back\TTY.GMP.ICache\obj\Debug\netstandard2.0\TTY.GMP.ICache.csprojAssemblyReference.cache
+D:\GMP\Back\TTY.GMP.ICache\obj\Debug\netstandard2.0\TTY.GMP.ICache.csproj.CoreCompileInputs.cache
+D:\GMP\Back\TTY.GMP.ICache\obj\Debug\netstandard2.0\TTY.GMP.ICache.AssemblyInfoInputs.cache
+D:\GMP\Back\TTY.GMP.ICache\obj\Debug\netstandard2.0\TTY.GMP.ICache.AssemblyInfo.cs
+D:\GMP\Back\TTY.GMP.ICache\obj\Debug\netstandard2.0\TTY.GMP.ICache.dll
+D:\GMP\Back\TTY.GMP.ICache\obj\Debug\netstandard2.0\TTY.GMP.ICache.pdb

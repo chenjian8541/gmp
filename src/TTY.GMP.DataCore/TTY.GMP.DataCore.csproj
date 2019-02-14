@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.5" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TTY.GMP.Entity\TTY.GMP.Entity.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IOC\TTY.GMP.IOC.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Utility\TTY.GMP.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

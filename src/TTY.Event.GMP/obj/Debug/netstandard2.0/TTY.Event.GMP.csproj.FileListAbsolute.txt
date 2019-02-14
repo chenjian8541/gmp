@@ -1,0 +1,17 @@
+E:\tty_code\GMP\Back\TTY.Event.GMP\bin\Debug\netstandard2.0\TTY.Event.GMP.deps.json
+E:\tty_code\GMP\Back\TTY.Event.GMP\bin\Debug\netstandard2.0\TTY.Event.GMP.dll
+E:\tty_code\GMP\Back\TTY.Event.GMP\bin\Debug\netstandard2.0\TTY.Event.GMP.pdb
+E:\tty_code\GMP\Back\TTY.Event.GMP\obj\Debug\netstandard2.0\TTY.Event.GMP.csproj.CoreCompileInputs.cache
+E:\tty_code\GMP\Back\TTY.Event.GMP\obj\Debug\netstandard2.0\TTY.Event.GMP.AssemblyInfoInputs.cache
+E:\tty_code\GMP\Back\TTY.Event.GMP\obj\Debug\netstandard2.0\TTY.Event.GMP.AssemblyInfo.cs
+E:\tty_code\GMP\Back\TTY.Event.GMP\obj\Debug\netstandard2.0\TTY.Event.GMP.dll
+E:\tty_code\GMP\Back\TTY.Event.GMP\obj\Debug\netstandard2.0\TTY.Event.GMP.pdb
+D:\GMP\Back\TTY.Event.GMP\bin\Debug\netstandard2.0\TTY.Event.GMP.deps.json
+D:\GMP\Back\TTY.Event.GMP\bin\Debug\netstandard2.0\TTY.Event.GMP.dll
+D:\GMP\Back\TTY.Event.GMP\bin\Debug\netstandard2.0\TTY.Event.GMP.pdb
+D:\GMP\Back\TTY.Event.GMP\obj\Debug\netstandard2.0\TTY.Event.GMP.csprojAssemblyReference.cache
+D:\GMP\Back\TTY.Event.GMP\obj\Debug\netstandard2.0\TTY.Event.GMP.csproj.CoreCompileInputs.cache
+D:\GMP\Back\TTY.Event.GMP\obj\Debug\netstandard2.0\TTY.Event.GMP.AssemblyInfoInputs.cache
+D:\GMP\Back\TTY.Event.GMP\obj\Debug\netstandard2.0\TTY.Event.GMP.AssemblyInfo.cs
+D:\GMP\Back\TTY.Event.GMP\obj\Debug\netstandard2.0\TTY.Event.GMP.dll
+D:\GMP\Back\TTY.Event.GMP\obj\Debug\netstandard2.0\TTY.Event.GMP.pdb

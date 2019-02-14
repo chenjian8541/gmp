@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="2.1.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Quartz" Version="3.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TTY.Event.GMP\TTY.Event.GMP.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Business\TTY.GMP.Business.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Cache.Redis\TTY.GMP.Cache.Redis.csproj" />
+    <ProjectReference Include="..\TTY.GMP.DataAccess\TTY.GMP.DataAccess.csproj" />
+    <ProjectReference Include="..\TTY.GMP.DataCore\TTY.GMP.DataCore.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Entity\TTY.GMP.Entity.csproj" />
+    <ProjectReference Include="..\TTY.GMP.EventConsumer\TTY.GMP.EventConsumer.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Http\TTY.GMP.Http.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IBusiness\TTY.GMP.IBusiness.csproj" />
+    <ProjectReference Include="..\TTY.GMP.ICache\TTY.GMP.ICache.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IDataAccess\TTY.GMP.IDataAccess.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IEventProvider\TTY.GMP.IEventProvider.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IOC\TTY.GMP.IOC.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Jobs\TTY.GMP.Jobs.csproj" />
+    <ProjectReference Include="..\TTY.GMP.LOG\TTY.GMP.LOG.csproj" />
+    <ProjectReference Include="..\TTY.GMP.ServiceBus\TTY.GMP.ServiceBus.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Utility\TTY.GMP.Utility.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="logger.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties appsettings_1json__JSONSchema="" />
+    </VisualStudio>
+  </ProjectExtensions>
+
+</Project>

@@ -1,0 +1,502 @@
+﻿[
+  {
+    "Id": 1,
+    "OrderIndex": 0,
+    "PerCode": "1",
+    "Name": "经营者管理",
+    "FatherId": 0,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 2,
+    "OrderIndex": 0,
+    "PerCode": "1:1",
+    "Name": "零售商管理",
+    "FatherId": 1,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 3,
+    "OrderIndex": 0,
+    "PerCode": "1:1:1",
+    "Name": "查看",
+    "FatherId": 2,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 4,
+    "OrderIndex": 0,
+    "PerCode": "1:1:2",
+    "Name": "销售记录",
+    "FatherId": 2,
+    "Controller": "",
+    "Action": "",
+    "Type": 1
+  },
+  {
+    "Id": 5,
+    "OrderIndex": 0,
+    "PerCode": "1:1:2:1",
+    "Name": "查看",
+    "FatherId": 4,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 6,
+    "OrderIndex": 0,
+    "PerCode": "1:1:2:2",
+    "Name": "导出",
+    "FatherId": 4,
+    "Controller": "",
+    "Action": "",
+    "Type": 1
+  },
+  {
+    "Id": 7,
+    "OrderIndex": 0,
+    "PerCode": "1:1:3",
+    "Name": "销售商品",
+    "FatherId": 2,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 8,
+    "OrderIndex": 0,
+    "PerCode": "1:1:3:1",
+    "Name": "查看",
+    "FatherId": 7,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 9,
+    "OrderIndex": 0,
+    "PerCode": "1:1:3:2",
+    "Name": "导出",
+    "FatherId": 7,
+    "Controller": "",
+    "Action": "",
+    "Type": 1
+  },
+  {
+    "Id": 10,
+    "OrderIndex": 0,
+    "PerCode": "1:1:4",
+    "Name": "导出",
+    "FatherId": 2,
+    "Controller": "",
+    "Action": "",
+    "Type": 1
+  },
+  {
+    "Id": 11,
+    "OrderIndex": 0,
+    "PerCode": "1:2",
+    "Name": "经销商管理",
+    "FatherId": 1,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 12,
+    "OrderIndex": 0,
+    "PerCode": "1:2:1",
+    "Name": "查看",
+    "FatherId": 11,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 13,
+    "OrderIndex": 0,
+    "PerCode": "1:3",
+    "Name": "生产商管理",
+    "FatherId": 1,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 14,
+    "OrderIndex": 0,
+    "PerCode": "1:3:1",
+    "Name": "查看",
+    "FatherId": 13,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 15,
+    "OrderIndex": 0,
+    "PerCode": "2",
+    "Name": "商品管控",
+    "FatherId": 0,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 16,
+    "OrderIndex": 0,
+    "PerCode": "2:1",
+    "Name": "准入商品管理",
+    "FatherId": 15,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 17,
+    "OrderIndex": 0,
+    "PerCode": "2:1:1",
+    "Name": "查看",
+    "FatherId": 16,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 18,
+    "OrderIndex": 0,
+    "PerCode": "2:2",
+    "Name": "禁入商品管理",
+    "FatherId": 15,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 19,
+    "OrderIndex": 0,
+    "PerCode": "2:2:1",
+    "Name": "查看",
+    "FatherId": 18,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 20,
+    "OrderIndex": 0,
+    "PerCode": "2:3",
+    "Name": "登记证查询",
+    "FatherId": 15,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 21,
+    "OrderIndex": 0,
+    "PerCode": "2:3:1",
+    "Name": "查看",
+    "FatherId": 20,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 22,
+    "OrderIndex": 0,
+    "PerCode": "3",
+    "Name": "监管报表",
+    "FatherId": 0,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 23,
+    "OrderIndex": 0,
+    "PerCode": "3:1",
+    "Name": "采购监管",
+    "FatherId": 22,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 24,
+    "OrderIndex": 0,
+    "PerCode": "3:1:1",
+    "Name": "查看",
+    "FatherId": 23,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 25,
+    "OrderIndex": 0,
+    "PerCode": "3:1:2",
+    "Name": "导出",
+    "FatherId": 23,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 26,
+    "OrderIndex": 0,
+    "PerCode": "3:2",
+    "Name": "销售监管",
+    "FatherId": 22,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 27,
+    "OrderIndex": 0,
+    "PerCode": "3:2:1",
+    "Name": "查看",
+    "FatherId": 26,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 28,
+    "OrderIndex": 0,
+    "PerCode": "3:2:2",
+    "Name": "导出",
+    "FatherId": 26,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 29,
+    "OrderIndex": 0,
+    "PerCode": "4",
+    "Name": "智控中心",
+    "FatherId": 0,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 30,
+    "OrderIndex": 0,
+    "PerCode": "4:1",
+    "Name": "查看",
+    "FatherId": 29,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 31,
+    "OrderIndex": 0,
+    "PerCode": "5",
+    "Name": "系统管理",
+    "FatherId": 0,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 32,
+    "OrderIndex": 0,
+    "PerCode": "5:1",
+    "Name": "用户管理",
+    "FatherId": 31,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 33,
+    "OrderIndex": 0,
+    "PerCode": "5:1:1",
+    "Name": "查看",
+    "FatherId": 32,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 34,
+    "OrderIndex": 0,
+    "PerCode": "5:1:2",
+    "Name": "新增",
+    "FatherId": 32,
+    "Controller": "",
+    "Action": "",
+    "Type": 1
+  },
+  {
+    "Id": 35,
+    "OrderIndex": 0,
+    "PerCode": "5:1:3",
+    "Name": "编辑",
+    "FatherId": 32,
+    "Controller": "",
+    "Action": "",
+    "Type": 1
+  },
+  {
+    "Id": 36,
+    "OrderIndex": 0,
+    "PerCode": "5:1:4",
+    "Name": "重置密码",
+    "FatherId": 32,
+    "Controller": "",
+    "Action": "",
+    "Type": 1
+  },
+  {
+    "Id": 37,
+    "OrderIndex": 0,
+    "PerCode": "5:1:5",
+    "Name": "设置数据权限",
+    "FatherId": 32,
+    "Controller": "",
+    "Action": "",
+    "Type": 1
+  },
+  {
+    "Id": 38,
+    "OrderIndex": 0,
+    "PerCode": "5:2",
+    "Name": "角色管理",
+    "FatherId": 31,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 39,
+    "OrderIndex": 0,
+    "PerCode": "5:2:1",
+    "Name": "查看",
+    "FatherId": 38,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 40,
+    "OrderIndex": 0,
+    "PerCode": "5:2:2",
+    "Name": "新增",
+    "FatherId": 38,
+    "Controller": "",
+    "Action": "",
+    "Type": 1
+  },
+  {
+    "Id": 41,
+    "OrderIndex": 0,
+    "PerCode": "5:2:3",
+    "Name": "编辑",
+    "FatherId": 38,
+    "Controller": "",
+    "Action": "",
+    "Type": 1
+  },
+  {
+    "Id": 42,
+    "OrderIndex": 0,
+    "PerCode": "5:2:4",
+    "Name": "删除",
+    "FatherId": 38,
+    "Controller": "",
+    "Action": "",
+    "Type": 1
+  },
+  {
+    "Id": 43,
+    "OrderIndex": 0,
+    "PerCode": "3:3",
+    "Name": "区域监管看板",
+    "FatherId": 22,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 44,
+    "OrderIndex": 0,
+    "PerCode": "3:3:1",
+    "Name": "查看",
+    "FatherId": 43,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 45,
+    "OrderIndex": 0,
+    "PerCode": "3:4",
+    "Name": "区域销售看板",
+    "FatherId": 22,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 46,
+    "OrderIndex": 0,
+    "PerCode": "3:4:1",
+    "Name": "查看",
+    "FatherId": 45,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 47,
+    "OrderIndex": 0,
+    "PerCode": "3:5",
+    "Name": "区域采购看板",
+    "FatherId": 22,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 48,
+    "OrderIndex": 0,
+    "PerCode": "3:5:1",
+    "Name": "查看",
+    "FatherId": 47,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  },
+  {
+    "Id": 49,
+    "OrderIndex": 0,
+    "PerCode": "3:6",
+    "Name": "区域库存看板",
+    "FatherId": 22,
+    "Controller": "",
+    "Action": "",
+    "Type": 0
+  },
+  {
+    "Id": 50,
+    "OrderIndex": 0,
+    "PerCode": "3:6:1",
+    "Name": "查看",
+    "FatherId": 49,
+    "Controller": "",
+    "Action": "",
+    "Type": 2
+  }
+]

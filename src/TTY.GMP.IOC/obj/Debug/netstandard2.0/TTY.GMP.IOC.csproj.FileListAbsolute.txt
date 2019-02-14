@@ -1,0 +1,17 @@
+E:\tty_code\GMP\Back\TTY.GMP.IOC\bin\Debug\netstandard2.0\TTY.GMP.IOC.deps.json
+E:\tty_code\GMP\Back\TTY.GMP.IOC\bin\Debug\netstandard2.0\TTY.GMP.IOC.dll
+E:\tty_code\GMP\Back\TTY.GMP.IOC\bin\Debug\netstandard2.0\TTY.GMP.IOC.pdb
+E:\tty_code\GMP\Back\TTY.GMP.IOC\obj\Debug\netstandard2.0\TTY.GMP.IOC.csproj.CoreCompileInputs.cache
+E:\tty_code\GMP\Back\TTY.GMP.IOC\obj\Debug\netstandard2.0\TTY.GMP.IOC.AssemblyInfoInputs.cache
+E:\tty_code\GMP\Back\TTY.GMP.IOC\obj\Debug\netstandard2.0\TTY.GMP.IOC.AssemblyInfo.cs
+E:\tty_code\GMP\Back\TTY.GMP.IOC\obj\Debug\netstandard2.0\TTY.GMP.IOC.dll
+E:\tty_code\GMP\Back\TTY.GMP.IOC\obj\Debug\netstandard2.0\TTY.GMP.IOC.pdb
+D:\GMP\Back\TTY.GMP.IOC\bin\Debug\netstandard2.0\TTY.GMP.IOC.deps.json
+D:\GMP\Back\TTY.GMP.IOC\bin\Debug\netstandard2.0\TTY.GMP.IOC.dll
+D:\GMP\Back\TTY.GMP.IOC\bin\Debug\netstandard2.0\TTY.GMP.IOC.pdb
+D:\GMP\Back\TTY.GMP.IOC\obj\Debug\netstandard2.0\TTY.GMP.IOC.csprojAssemblyReference.cache
+D:\GMP\Back\TTY.GMP.IOC\obj\Debug\netstandard2.0\TTY.GMP.IOC.csproj.CoreCompileInputs.cache
+D:\GMP\Back\TTY.GMP.IOC\obj\Debug\netstandard2.0\TTY.GMP.IOC.AssemblyInfoInputs.cache
+D:\GMP\Back\TTY.GMP.IOC\obj\Debug\netstandard2.0\TTY.GMP.IOC.AssemblyInfo.cs
+D:\GMP\Back\TTY.GMP.IOC\obj\Debug\netstandard2.0\TTY.GMP.IOC.dll
+D:\GMP\Back\TTY.GMP.IOC\obj\Debug\netstandard2.0\TTY.GMP.IOC.pdb

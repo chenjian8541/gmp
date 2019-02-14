@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TTY.GMP.DataCore\TTY.GMP.DataCore.csproj" />
+    <ProjectReference Include="..\TTY.GMP.ICache\TTY.GMP.ICache.csproj" />
+    <ProjectReference Include="..\TTY.GMP.IDataAccess\TTY.GMP.IDataAccess.csproj" />
+    <ProjectReference Include="..\TTY.GMP.LOG\TTY.GMP.LOG.csproj" />
+    <ProjectReference Include="..\TTY.GMP.Utility\TTY.GMP.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+E:\tty_code\GMP\Back\TTY.GMP.Authority\bin\Debug\netstandard2.0\TTY.GMP.Authority.deps.json
+E:\tty_code\GMP\Back\TTY.GMP.Authority\bin\Debug\netstandard2.0\TTY.GMP.Authority.dll
+E:\tty_code\GMP\Back\TTY.GMP.Authority\bin\Debug\netstandard2.0\TTY.GMP.Authority.pdb
+E:\tty_code\GMP\Back\TTY.GMP.Authority\obj\Debug\netstandard2.0\TTY.GMP.Authority.csproj.CoreCompileInputs.cache
+E:\tty_code\GMP\Back\TTY.GMP.Authority\obj\Debug\netstandard2.0\TTY.GMP.Authority.AssemblyInfoInputs.cache
+E:\tty_code\GMP\Back\TTY.GMP.Authority\obj\Debug\netstandard2.0\TTY.GMP.Authority.AssemblyInfo.cs
+E:\tty_code\GMP\Back\TTY.GMP.Authority\obj\Debug\netstandard2.0\TTY.GMP.Authority.dll
+E:\tty_code\GMP\Back\TTY.GMP.Authority\obj\Debug\netstandard2.0\TTY.GMP.Authority.pdb
+D:\GMP\Back\TTY.GMP.Authority\bin\Debug\netstandard2.0\TTY.GMP.Authority.deps.json
+D:\GMP\Back\TTY.GMP.Authority\bin\Debug\netstandard2.0\TTY.GMP.Authority.dll
+D:\GMP\Back\TTY.GMP.Authority\bin\Debug\netstandard2.0\TTY.GMP.Authority.pdb
+D:\GMP\Back\TTY.GMP.Authority\obj\Debug\netstandard2.0\TTY.GMP.Authority.csprojAssemblyReference.cache
+D:\GMP\Back\TTY.GMP.Authority\obj\Debug\netstandard2.0\TTY.GMP.Authority.csproj.CoreCompileInputs.cache
+D:\GMP\Back\TTY.GMP.Authority\obj\Debug\netstandard2.0\TTY.GMP.Authority.AssemblyInfoInputs.cache
+D:\GMP\Back\TTY.GMP.Authority\obj\Debug\netstandard2.0\TTY.GMP.Authority.AssemblyInfo.cs
+D:\GMP\Back\TTY.GMP.Authority\obj\Debug\netstandard2.0\TTY.GMP.Authority.dll
+D:\GMP\Back\TTY.GMP.Authority\obj\Debug\netstandard2.0\TTY.GMP.Authority.pdb
