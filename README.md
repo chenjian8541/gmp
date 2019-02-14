@@ -24,7 +24,9 @@ GMP 是一个政府数据监控平台，使用.net core技术，里边使用了R
                     container.RegisterInstance(publisher).As<IEventPublisher>();
                 }
             }
- ### 2. 仓储层多数据库操作
+```
+### 2. 仓储层多数据库操作
+```csharp
      public class SysUserDAL : BaseCacheDAL<SysUser>, ISysUserDAL, IDbContext<GmpDbContext>
     {
         /// <summary>
@@ -63,5 +65,5 @@ GMP 是一个政府数据监控平台，使用.net core技术，里边使用了R
             return await base.GetCache(userId);
         }
        }
-       
+    ```
        
