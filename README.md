@@ -1,7 +1,7 @@
 ## 什么是 GMP
 GMP 是一个政府数据监控平台，使用.net core技术，里边使用了Redis、rabbitmq、autofac、Throttle（开源的限流框架）、log4net、EF、Dapper、Quartz等技术，仅供学习。
 
-### 1. rabbitmq消费逻辑
+### 1. rabbitmq消费者发现逻辑
 ```csharp
             var subscriptionAdapt = new SubscriptionAdapt();
             var consumers = Assembly.Load("TTY.GMP.EventConsumer").GetTypes();
